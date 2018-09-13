@@ -67,10 +67,10 @@ public class BCCreator {
         Scanner scanBCInfo = new Scanner(System.in);
 
         System.out.printf("%nPlease enter the start location of this boardingcard %n");
-        start = scanBCInfo.nextLine().trim();
+        start = scanBCInfo.nextLine().trim().toUpperCase();
 
         System.out.printf("%nPlease enter the destination %n");
-        destination = scanBCInfo.nextLine().trim();
+        destination = scanBCInfo.nextLine().trim().toUpperCase();
 
         System.out.printf("%nPlease enter the type of transportation and the number, e.g. train 1111 %n");
         transportation = scanBCInfo.nextLine().trim();
