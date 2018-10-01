@@ -1,6 +1,6 @@
 # TripSorter
 
-Copy all files to your computer. Open the folder called "Trip Sorter", open folder "src" then open "Main".
+Copy all files to your computer. Unzip them. Go to a java editor, import project, use the file called Trip Sorter to import the project. 
 Code is ready to execute on any normal java editor, e.g. IntelliJ. 
 Run the code and follow the instructions that are printed.
 
